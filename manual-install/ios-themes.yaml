@@ -4,6 +4,7 @@
 # iOS Light Mode Theme - blue-red
 #
 ios-light-mode-blue-red-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-blue-red.jpg')"
   lovelace-background: var(--background-image)
@@ -93,6 +94,7 @@ ios-light-mode-blue-red-alternative:
 # iOS Light Mode Theme - blue-red
 #
 ios-light-mode-blue-red:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-blue-red.jpg')"
   lovelace-background: var(--background-image)
@@ -182,6 +184,7 @@ ios-light-mode-blue-red:
 # iOS Dark Mode Theme - blue-red
 #
 ios-dark-mode-blue-red-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-blue-red.jpg')"
   lovelace-background: var(--background-image)
@@ -271,6 +274,7 @@ ios-dark-mode-blue-red-alternative:
 # iOS Dark Mode Theme - blue-red
 #
 ios-dark-mode-blue-red:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-blue-red.jpg')"
   lovelace-background: var(--background-image)
@@ -360,6 +364,7 @@ ios-dark-mode-blue-red:
 # iOS Light Mode Theme - dark-blue
 #
 ios-light-mode-dark-blue-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-dark-blue.jpg')"
   lovelace-background: var(--background-image)
@@ -449,6 +454,7 @@ ios-light-mode-dark-blue-alternative:
 # iOS Light Mode Theme - dark-blue
 #
 ios-light-mode-dark-blue:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-dark-blue.jpg')"
   lovelace-background: var(--background-image)
@@ -538,6 +544,7 @@ ios-light-mode-dark-blue:
 # iOS Dark Mode Theme - dark-blue
 #
 ios-dark-mode-dark-blue-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-dark-blue.jpg')"
   lovelace-background: var(--background-image)
@@ -627,6 +634,7 @@ ios-dark-mode-dark-blue-alternative:
 # iOS Dark Mode Theme - dark-blue
 #
 ios-dark-mode-dark-blue:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-dark-blue.jpg')"
   lovelace-background: var(--background-image)
@@ -716,6 +724,7 @@ ios-dark-mode-dark-blue:
 # iOS Light Mode Theme - dark-green
 #
 ios-light-mode-dark-green-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-dark-green.jpg')"
   lovelace-background: var(--background-image)
@@ -805,6 +814,7 @@ ios-light-mode-dark-green-alternative:
 # iOS Light Mode Theme - dark-green
 #
 ios-light-mode-dark-green:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-dark-green.jpg')"
   lovelace-background: var(--background-image)
@@ -894,6 +904,7 @@ ios-light-mode-dark-green:
 # iOS Dark Mode Theme - dark-green
 #
 ios-dark-mode-dark-green-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-dark-green.jpg')"
   lovelace-background: var(--background-image)
@@ -983,6 +994,7 @@ ios-dark-mode-dark-green-alternative:
 # iOS Dark Mode Theme - dark-green
 #
 ios-dark-mode-dark-green:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-dark-green.jpg')"
   lovelace-background: var(--background-image)
@@ -1072,6 +1084,7 @@ ios-dark-mode-dark-green:
 # iOS Light Mode Theme - light-blue
 #
 ios-light-mode-light-blue-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-light-blue.jpg')"
   lovelace-background: var(--background-image)
@@ -1161,6 +1174,7 @@ ios-light-mode-light-blue-alternative:
 # iOS Light Mode Theme - light-blue
 #
 ios-light-mode-light-blue:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-light-blue.jpg')"
   lovelace-background: var(--background-image)
@@ -1250,6 +1264,7 @@ ios-light-mode-light-blue:
 # iOS Dark Mode Theme - light-blue
 #
 ios-dark-mode-light-blue-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-light-blue.jpg')"
   lovelace-background: var(--background-image)
@@ -1339,6 +1354,7 @@ ios-dark-mode-light-blue-alternative:
 # iOS Dark Mode Theme - light-blue
 #
 ios-dark-mode-light-blue:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-light-blue.jpg')"
   lovelace-background: var(--background-image)
@@ -1428,6 +1444,7 @@ ios-dark-mode-light-blue:
 # iOS Light Mode Theme - light-green
 #
 ios-light-mode-light-green-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-light-green.jpg')"
   lovelace-background: var(--background-image)
@@ -1517,6 +1534,7 @@ ios-light-mode-light-green-alternative:
 # iOS Light Mode Theme - light-green
 #
 ios-light-mode-light-green:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-light-green.jpg')"
   lovelace-background: var(--background-image)
@@ -1606,6 +1624,7 @@ ios-light-mode-light-green:
 # iOS Dark Mode Theme - light-green
 #
 ios-dark-mode-light-green-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-light-green.jpg')"
   lovelace-background: var(--background-image)
@@ -1695,6 +1714,7 @@ ios-dark-mode-light-green-alternative:
 # iOS Dark Mode Theme - light-green
 #
 ios-dark-mode-light-green:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-light-green.jpg')"
   lovelace-background: var(--background-image)
@@ -1784,6 +1804,7 @@ ios-dark-mode-light-green:
 # iOS Light Mode Theme - orange
 #
 ios-light-mode-orange-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-orange.jpg')"
   lovelace-background: var(--background-image)
@@ -1873,6 +1894,7 @@ ios-light-mode-orange-alternative:
 # iOS Light Mode Theme - orange
 #
 ios-light-mode-orange:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-orange.jpg')"
   lovelace-background: var(--background-image)
@@ -1962,6 +1984,7 @@ ios-light-mode-orange:
 # iOS Dark Mode Theme - orange
 #
 ios-dark-mode-orange-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-orange.jpg')"
   lovelace-background: var(--background-image)
@@ -2051,6 +2074,7 @@ ios-dark-mode-orange-alternative:
 # iOS Dark Mode Theme - orange
 #
 ios-dark-mode-orange:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-orange.jpg')"
   lovelace-background: var(--background-image)
@@ -2140,6 +2164,7 @@ ios-dark-mode-orange:
 # iOS Light Mode Theme - red
 #
 ios-light-mode-red-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-red.jpg')"
   lovelace-background: var(--background-image)
@@ -2229,6 +2254,7 @@ ios-light-mode-red-alternative:
 # iOS Light Mode Theme - red
 #
 ios-light-mode-red:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-red.jpg')"
   lovelace-background: var(--background-image)
@@ -2318,6 +2344,7 @@ ios-light-mode-red:
 # iOS Dark Mode Theme - red
 #
 ios-dark-mode-red-alternative:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-red.jpg')"
   lovelace-background: var(--background-image)
@@ -2407,6 +2434,7 @@ ios-dark-mode-red-alternative:
 # iOS Dark Mode Theme - red
 #
 ios-dark-mode-red:
+  horizontal-stack-card-gap: 0px
   # Global
   background-image: "center / cover no-repeat fixed url('/local/themes/ios-themes/homekit-bg-red.jpg')"
   lovelace-background: var(--background-image)
